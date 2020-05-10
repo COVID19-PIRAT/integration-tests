@@ -1,0 +1,35 @@
+{
+  "provider": {
+    "institution": "Jolly Rogers",
+    "name": "Captain Hook",
+    "email": "pirat.hilfsmittel@gmail.com",
+    "telephone": "+49 000 000 0000",
+    "street": "Arcisstraße 21",
+    "postalCode": "80333",
+    "city": "München"
+  },
+  "staff": {
+    "qualification": "PhD Student",
+    "institution": "TU München",
+    "department": "Lehrstuhl für Biochemie",
+    "area": "Biochemistry",
+    "comment": "S2-Unterweisung vorhanden"
+  },
+  "device": {
+    "category": "RT_PCR_THERMOCYCLER",
+    "name": "QuantStudio 6",
+    "manufacturer": "ThermoFischer",
+    "serialNumber": "046453297",
+    "amount": "1",
+    "comment": "It has a blue color."
+  },
+  "consumable": {
+    "category": "READOUTPLATES",
+    "name": "Light Cycler 480 Multiwell Plate 96, white",
+    "manufacturer": "Roche",
+    "serialNumber": "04729692001",
+    "amount": "30",
+    "unit": "Stück",
+    "comment": "They smell a little funny."
+  }
+}

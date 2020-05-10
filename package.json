@@ -1,0 +1,20 @@
+{
+  "name": "integration_tests",
+  "version": "1.4.1",
+  "description": "",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COVID19-PIRAT/integration_tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/COVID19-PIRAT/integration_tests/issues"
+  },
+  "homepage": "https://github.com/COVID19-PIRAT/integration_tests#readme",
+  "dependencies": {
+    "cypress": "^4.5.0"
+  }
+}
